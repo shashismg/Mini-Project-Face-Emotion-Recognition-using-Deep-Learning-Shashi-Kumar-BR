@@ -93,6 +93,3 @@ Students will understand how to deploy a trained model for real-time emotion pre
 
 ## Conclusion
 This project helps in building a robust emotion recognition system using deep learning techniques. The model can predict emotions from facial expressions, making it applicable in various real-world applications such as human-computer interaction, sentiment analysis, and security systems.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
